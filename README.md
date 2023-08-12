@@ -25,11 +25,10 @@
 ## 💡 Contact Me 📞
 
 1. Facebook: [Nguyen Hoang Trung](https://www.facebook.com/HiamTrung102/)
-2. Discord: [Discord](https://discord.gg/fr1ends) & [Trunq#0001](https://discord.gg/)
-3. Github: [Hiamtrung102](https://github.com/Hiamtrung102/)
-4. Youtube: [Trunq Nguyễn](https://www.youtube.com/channel/UCysSxCtFrXXMU2QvfElJK-g)
-5. Email: hiamtrung102@gmail.com
-6. Whatsapp: +84853040379
->
-> **Lưu ý:** Mọi bản quyền thuộc về **Trunq © 2022**.
->
+2. Discord: [Discord](https://discord.gg/XVQ52ZAVmc) & [Trunq#0102](https://discord.gg/)
+3. Github: [Hiamtrung102](https://github.com/Hiamtrung103/)
+4. Email: hiamtrung102@protonmail.com
+5. Whatsapp: +84 853 0403 79
+
+### More Information 👇
+## 🌐 https://hiamtrung102.online/
