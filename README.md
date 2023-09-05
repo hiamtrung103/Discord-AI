@@ -1,9 +1,9 @@
-## Chào bạn 👋
+## Hi there👋
 * Đây là mã nguồn share ChatBot AI cho mọi người muốn tạo bot riêng.
 * Chạy khá đơn giản từ ApiKey của OpenAi
 * Đơn giản vậy thôi 😂
 
-## Hướng dẫn nhanh 📋
+## Hướng dẫn (Tutorial) 📋
 1. Đầu tiên bạn cần một tài khoản ChatGPT - Open Ai [bấm vào đây](https://platform.openai.com/playground).
 2. Sau khi đã có tài khoản thì bạn chỉ cần **Personal** -> **View API Keys**.
 
@@ -21,14 +21,3 @@
 ![image](https://user-images.githubusercontent.com/40049697/217148425-942595cb-cc70-4a63-92d5-02da7588b134.png)
 
 6. Gần như hoàn thiện, bạn chỉ cần bật terminal chạy 2 lệnh sau: `npm i` sau đó đợi nó chạy xong bạn chỉ ghi `node index.js` là hoàn thành.
-
-## 💡 Contact Me 📞
-
-1. Facebook: [Nguyen Hoang Trung](https://www.facebook.com/HiamTrung102/)
-2. Discord: [Discord](https://discord.gg/XVQ52ZAVmc) & [Trunq#0102](https://discord.gg/)
-3. Github: [Hiamtrung102](https://github.com/Hiamtrung103/)
-4. Email: hiamtrung102@protonmail.com
-5. Whatsapp: +84 853 0403 79
-
-### More Information 👇
-## 🌐 https://hiamtrung102.online/
