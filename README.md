@@ -20,4 +20,4 @@
 
 ![image](https://cdn.discordapp.com/attachments/990995960945586250/1148529596887736320/image.png)
 
-6. Gần như hoàn thiện, bạn chỉ cần bật terminal chạy 2 lệnh sau: `npm i` sau đó đợi nó chạy xong bạn chỉ ghi `node index.js` là hoàn thành.
+6. Gần như hoàn thiện, bạn chỉ cần bật terminal chạy 2 lệnh sau: `npm run start` sau đó đợi nó chạy xong.
