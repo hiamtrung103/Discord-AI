@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "test": "node index",
+    "start": "npm i && node index"
   },
   "keywords": [],
   "author": "Hiamtrung102",
