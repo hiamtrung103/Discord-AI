@@ -18,7 +18,8 @@ client.on('messageCreate', async function(message){
       try {
             // console.log(message);
             if(message.author.bot) return;
-            if(message.channel.id !== '1072935576854073354' && message.channel.id !== '1072947276240134226') return;
+            /* Tại đây bạn muốn giới hạn ở một channel nào đó điền ID vào
+            if(message.channel.id !== '1234567890123456789') return; */
             if(message.content.startsWith('!')) return;
 
             let conversationLog = [{ role: 'system', content: "Bạn là người bạn tốt." }];
