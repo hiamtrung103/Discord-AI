@@ -25,3 +25,4 @@
 ![image](https://cdn.discordapp.com/attachments/990995960945586250/1148529596887736320/image.png)
 
 6. Gần như hoàn thiện, bạn chỉ cần bật terminal chạy 2 lệnh sau: `npm run start` sau đó đợi nó chạy xong.
+7. Treo 24/7 bằng [Uptime Robot](uptimerobot.com). Bỏ qua nếu bạn không sử dụng trên `repl.it`
