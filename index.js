@@ -41,7 +41,7 @@ client.on('messageCreate', async function(message){
             })
 
             const result = await openai.createChatCompletion({
-                  model: 'gpt-3.5-turbo',
+                  model: 'gpt-3.5-turbo-16k',
                   messages: conversationLog,
             })
 
