@@ -1,9 +1,13 @@
 ## Hi there👋
-* Đây là mã nguồn share ChatBot AI cho mọi người muốn tạo bot riêng.
-* Chạy khá đơn giản từ ApiKey của OpenAi
-* Đơn giản vậy thôi 😂
+- Đây là mã nguồn share ChatBot AI cho mọi người muốn tạo bot riêng.
+- Chạy khá đơn giản từ ApiKey của OpenAi
+- Đơn giản vậy thôi 😂
 
 ## Hướng dẫn (Tutorial) 📋
+### Bạn có thể sử dụng trên replit hoặc tải về
+
+[![Run on Repl.it](replit.svg)](https://replit.com/@TrunqNguyen/Discord-AI)
+
 1. Đầu tiên bạn cần một tài khoản ChatGPT - Open Ai [bấm vào đây](https://platform.openai.com/playground).
 2. Sau khi đã có tài khoản thì bạn chỉ cần **Personal** -> **View API Keys**.
 
